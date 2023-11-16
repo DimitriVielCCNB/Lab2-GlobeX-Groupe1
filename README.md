@@ -27,3 +27,12 @@ Here are the requirements given by GlobeX:
 <br><br><br>
 **** Dans le titre de ce laboratoire, décrire les roles de chaque membres de l'équipe (pages à faire, et page fait)<br>
 **** N'oubliex pas de mettre des commentaires dans votre code ainsi qu'une bonne sémantique. 
+
+
+<br>
+
+Denis ->
+Maryssa ->
+Lachen ->
+Martin Lepage ->
+Martin Lapointe -> 

@@ -98,6 +98,20 @@
         font-weight: lighter;
     }
 
+    .p4{
+        font-weight: bolder;
+        color: red;
+        text-align: left;
+       
+    }
+
+    .p5{
+        color: #060807;
+        font-weight: bolder;
+        text-align: left;
+        text-decoration: line-through;
+    }
+
     .subtitle{
         margin-top: 20px;
         margin-bottom: 20px;

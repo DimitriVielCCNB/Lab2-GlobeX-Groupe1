@@ -32,8 +32,8 @@ Here are the requirements given by GlobeX:
 <br>
 
 Denis ->
-<br>
-Maryssa ->
+
+<br>Maryssa ->
 <br>
 Lachen ->
 Martin Lepage ->

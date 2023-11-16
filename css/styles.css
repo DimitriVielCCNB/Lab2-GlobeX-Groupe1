@@ -2,6 +2,7 @@
 /* THIS WILL APPLY TO ALL OF THE HTML DOCUMENT !   */
 
 /* --------------COLOR PALET---------------- */
+
 /* DARK BLUE #02013D */
 /* ORANGE #E87C3E */
 /* YELLOW #E87C3E */
@@ -67,14 +68,14 @@
 
   
 
-    /* ----------------Containers and texts--------------- */
+    /* -----------------------texts------------------------------ */
     
     .hr2{
         border: none;
         height: 2px;
         background-color: #060807;
         
-      
+
     }
    
     a{
@@ -117,9 +118,9 @@
         margin-bottom: 20px;
     }
     
-  
+  /* -----------------CONTAINERS AND ROWS------------------- */
     .container{
-        max-width: 1600PX;
+        max-width: 1600px;
         margin: auto;
         padding-left: 25px;
         padding-right: 25px;
@@ -167,7 +168,7 @@
         margin-top: 70px;
     }
     
-    /* ------------------------------------- */
+    /* ----------------more containers--------------------- */
     .small-container{
         max-width: 1600px;
         margin: auto;

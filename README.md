@@ -32,12 +32,17 @@ Site Description :
 
 <br>
 
-<br>Denis -> Overall Layout , Main Page
+<br>Denis ->
 
-<br>Maryssa -> Main Page and helped with layout
+<br>Maryssa ->
 
-<br>Lachen ->
+<br>Lahcen -> World Domination page, assisted with main/css layout, images, @ media
 
-<br>Martin Lepage ->
+<br>Martin Lepage -> Sports page (sub pages), images
 
-<br>Martin Lapointe -> 
+<br>Martin Lapointe -> Radioactive page, images
+
+
+Description of GlobeX :
+
+GlobeX is a website where you can buy numerous types of products, utilities and GREAT things for your home. Wether its for the interior or the exterior of the house. We even have sporting goods and crazy world domination goods. We always have good sales going on - showing how much you are saving. Every week new sales will be available! You can subscribe to a monthly catalogue by using your email. You can also contact us anytime! You need a specific item? you can't find what you are looking for? you just want to say hi? Send us a quick e-mail. We always keep the clients up to date on new products and even look forward to getting new products.

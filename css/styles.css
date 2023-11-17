@@ -145,20 +145,27 @@
     }
 
     .col-2 p{
+    font-size: larger;
     font-weight: bolder;
+   
     }
     
     .col-2 img{
+        float: right;
         max-width: 100%;
-        padding: 50px 0;
+        padding: 50px ;
+
     
     }
     
     .col-2 h1{
+        font-weight: bolder;
         font-size: 50px;
         line-height: 60px;
         margin: 25px 0;
     }
+
+   
     
     /* -------------header----------------- */
      .header{

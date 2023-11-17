@@ -27,13 +27,14 @@ Here are the requirements given by GlobeX:
 <br><br><br>
 **** Dans le titre de ce laboratoire, décrire les roles de chaque membres de l'équipe (pages à faire, et page fait)<br>
 **** N'oubliex pas de mettre des commentaires dans votre code ainsi qu'une bonne sémantique. 
-
+<br>
+Site Description :
 
 <br>
 
-<br>Denis -> Layout of main page, CSS, interior page (sub pages), assisted with exterior and about us, images
+<br>Denis ->
 
-<br>Maryssa -> Ass. with main page/CSS layout, Exterior page (sub pages) and contact/about us page, images
+<br>Maryssa ->
 
 <br>Lahcen -> World Domination page, assisted with main/css layout, images, @ media
 

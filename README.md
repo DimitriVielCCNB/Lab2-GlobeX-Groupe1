@@ -32,9 +32,9 @@ Site Description :
 
 <br>
 
-<br>Denis ->
+<br>Denis -> Layout of main/css, interior page (sub pages), images, assisted with exterior
 
-<br>Maryssa ->
+<br>Maryssa -> Assisted with main/css, exterior (sub pages), images, about us page
 
 <br>Lahcen -> World Domination page, assisted with main/css layout, images, @ media
 

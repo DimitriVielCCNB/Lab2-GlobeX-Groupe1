@@ -38,7 +38,7 @@ Site Description :
 
 <br>Lahcen -> World Domination page, assisted with main/css layout, images, @ media
 
-<br>Martin Lepage -> Sports page (sub pages), images
+<br>Martin Lepage -> Sports page, images
 
 <br>Martin Lapointe -> Radioactive page, images
 

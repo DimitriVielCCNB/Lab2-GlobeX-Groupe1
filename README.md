@@ -32,7 +32,7 @@ Site Description :
 
 <br>
 
-<br>Denis -> Layout of main/css, interior page (sub pages), images, assisted with exterior
+<br>Denis -> Layout of main/css (navbar, footer and body), interior page ( + sub pages), images, assisted with exterior page layout and overall of the page, base layout for the About us.
 
 <br>Maryssa -> Assisted with main/css, exterior (sub pages), images, about us page
 

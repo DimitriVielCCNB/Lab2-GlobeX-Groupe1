@@ -36,7 +36,7 @@ Site Description :
 
 <br>Maryssa -> Assisted with main/css, exterior (sub pages), images, about us page
 
-<br>Lahcen -> World Domination page, assisted with main/css layout, images, @ media
+<br>Lahcen -> World Domination page, assisted with main/css layout, images,
 
 <br>Martin Lepage -> Sports page, images
 
